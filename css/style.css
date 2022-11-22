@@ -64,8 +64,8 @@ body {
   align-items: center;
 }
 .card {
-  max-width: 600px;
-  height: 450px;
+  max-width: 620px;
+  height: 420px;
   border-radius: 15px;
   display: flex;
   justify-content: center;
@@ -113,7 +113,7 @@ body {
   display: flex;
   justify-content: left;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   margin-top: 10px;
 }
 
@@ -124,7 +124,7 @@ body {
 }
 
 .act-mrp {
-  font-size: 16px;
+  font-size: 18px;
   color: var(--dark-grayish-blue);
   text-decoration: line-through;
 }
